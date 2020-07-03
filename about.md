@@ -1,20 +1,19 @@
-#Tu clima
-
+# Tu clima
 *Alumna: Marianela De Martino*
 
-##La app del clima que no solo muestra tu país si no que también te dice la temperatura de la zona y lo lleva a nivel fisico con una led para hacerlo mas visible
+## La app del clima que no solo muestra tu país si no que también te dice la temperatura de la zona y lo lleva a nivel fisico con una led para hacerlo mas visible
 
-###Target
+### Target
 
 Esta dirigido a todas las personas que les interese tener una ayuda visual con respecto al clima.
 
 
-###Objetivo
+### Objetivo
 
 La idea es poder desarrollar una aplicación que 
 
 
-###Benchmark
+### Benchmark
 
 Claro que existen las aplicaciónes y páginas que muestran la temperatuta de tu ubicación actual como: www.weather.com / www.accuweather.com y muchas otras más pero el distintivo de este proyecto es la integración de un elemento visual externo a la pantalla como una led que cambia de color según si la temperatura es fríao cálida para ayudar en caso de que la gente este apurada y no quiera fijarse en el celular por el clima directamente mira la luz antes de salir de la casa.
 
@@ -22,13 +21,13 @@ Claro que existen las aplicaciónes y páginas que muestran la temperatuta de tu
 
 
 
-###Diseño
+### Diseño
 
 
 La interfaz sería bastante sencilla, que muestre en que país me encuento, mis coordenadas y segun eso, mi temperatura. Se busca que para el usuario sea algo bastante fácil de entender y que no necesite muchas acciones de este, aunque una idea en un futuro sería que pueda buscar la temperatura del lugar que desee.
 
 
-###Implementación 
+### Implementación 
 
 La información se traerá a través de dos API:
 - de geolocalización
