@@ -16,7 +16,8 @@ if ("geolocation" in navigator) {
                 console.log(temperature)
                 sys = data['sys'];
                 country=sys['country'];
-                console.log(country)
+                name = data['name'];
+                console.log(country, name)
                 document.getElementById('pais').textContent = country;
                 document.getElementById('temperatura').textContent = temperature;
 
