@@ -1,4 +1,4 @@
-# Tu clima
+# Climmy
 *Alumna: Marianela De Martino*
 
 ## La app del clima que no solo muestra tu país si no que también te dice la temperatura de la zona y lo lleva a nivel fisico con una led para hacerlo mas visible
