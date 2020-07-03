@@ -1,0 +1,40 @@
+:root{
+    --purple: #7A306C;
+    --blue: #8E8DBE;
+
+}
+
+main {
+    width: 80%;
+    background: rgba(0,0,0,0.4);
+    margin: 0 auto;
+    height: 90vh;
+    border-radius: 25px;
+}
+
+body {
+    background-image: linear-gradient(to right, purple , blue);
+    font-family: 'Muli', sans-serif;
+    color: white;
+    text-align: center;
+    padding:2em;
+}
+
+header{
+    background-color: black;
+    padding: 2%;
+    border-radius: 25px 25px 0 0;
+}
+
+
+
+h1 {
+    font-size: 1em;
+}
+
+#contenido{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
